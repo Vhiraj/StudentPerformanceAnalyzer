@@ -18,6 +18,19 @@ The main purpose of this project is to provide a simple system for analyzing stu
 - Simple and user-friendly interface
 - Project documentation
 
+## How to Use
+
+1. Clone the repository from GitHub.
+2. Open the `StudentPerformanceAnalyzer` folder in Visual Studio Code.
+3. Review the project files and documentation.
+4. Run the application according to the available project setup.
+5. Enter or use student performance data.
+6. Review the resulting performance information.
+
+## Technologies
+
+The project is intended to use web application technologies for presenting and analyzing student performance data. The exact technologies may be expanded as development progresses.
+
 ## Project Structure
 
 ```text
